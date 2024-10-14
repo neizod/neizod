@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Lately I'm more writing oriented than coding (though I do still *love* to code, especially for fun challenging puzzles).
+
+So, read my thoughts here: <https://neizod.dev>. I'm a greedy one who covered (maybe too many) vareity of topics, include (but not limited to) math, com-sci, gaming, classical music, and philosophy. Most of my posts are originally written in Thai, my native language. If you're unsure if your machine-translation is true, feel free to ask me to translate them into English (well, after decades of learning the language, I should be able to translate them decently and quickly lol). I also practicing writing in Japanese for a bit, thus, 間違があったらごめんなさい。
+
 <!--
 **neizod/neizod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
